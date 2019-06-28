@@ -9,7 +9,7 @@
 }
 
 body {
-    background: url('https://i.pinimg.com/736x/89/0b/38/890b38d87d4177ae02b2e557e6802c41--background.jpg');
+    background: url(../assets/images/background.png);
     font-size: 18px;
     line-height: 34px;
     
@@ -65,7 +65,7 @@ h3 {
     float: left;
 }
 
-.img-circle {
+.img-square {
     width: 62px;
     height: 62px;
     margin-top: 8px;
